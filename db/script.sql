@@ -79,10 +79,10 @@ INSERT INTO
   )
 VALUES
   (
-    'Alice',
-    'Smith',
-    'alice.smith@example.com',
-    '1995-08-10',
-    get_zodiac_sign('1995-08-10'),
-    calculate_age('1995-08-10')
+    'Andrey',
+    'Botero',
+    '2007-02-12',
+    '2007-02-12',
+    get_zodiac_sign('2007-02-12'),
+    calculate_age('2007-02-12')
   );
